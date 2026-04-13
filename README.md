@@ -14,8 +14,8 @@ The database (db.sqlite3) is included in this repository and already have 5 cate
 ## Installation
 
 1. Clone the repository
-   - `git clone`
-   - `cd ./DjangoAssignment/productInfo`
+   - `git clone https://github.com/YuHStark/DjangoAssignment.git`
+   - `cd DjangoAssignment/productInfo`
 2. Create and activate a virtual environment (optional)
    - `python -m venv venv`
    - `source venv/bin/activate` (Mac/Linux)
